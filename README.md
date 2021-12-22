@@ -14,13 +14,6 @@ Some of the checklists in this doc are for **C4 (🐺)** and some of them are fo
 
 # Contest setup
 
-## 🐺 C4: Set up repos
-- [X] Create a new private repo named `YYYY-MM-sponsorname` using this repo as a template.
-- [ ] Get GitHub handles from sponsor.
-- [ ] Add sponsor to this private repo with 'maintain' level access.
-- [ ] Send the sponsor contact the url for this repo to follow the instructions below and add contracts here. 
-- [ ] Delete this checklist and wait for sponsor to complete their checklist.
-
 ## ⭐️ Sponsor: Provide contest details
 
 Under "SPONSORS ADD INFO HERE" heading below, include the following:
