@@ -37,6 +37,8 @@ The Bond ERC20, Insurance ERC20, Liquidity ERC20, and Collateralized Debt ERC721
 
 [Timeswap V1 Convenience Product Specification](https://drive.google.com/file/d/16fzt841PqYdYPrHU17j5kKtI_vhqQ5BE/view?usp=sharing)
 
+[Timeswap Gitbook Documentation](https://timeswap.gitbook.io/timeswap/)
+
 [Code Walkthrough](https://youtu.be/sHBK5ErtksI)
 
 ## Marketing Details
