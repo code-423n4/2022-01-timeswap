@@ -7,10 +7,6 @@
 - Starts January 4, 2022 00:00 UTC
 - Ends January 10, 2022 23:59 UTC
 
-This repo will be made public before the start of the contest. (C4 delete this line when made public)
-
-[ ⭐️ SPONSORS ADD INFO HERE ]
-
 ## Contracts
 
 | Name | LOC | External Contracts Called | Libraries |
@@ -38,35 +34,3 @@ The Bond ERC20, Insurance ERC20, Liquidity ERC20, and Collateralized Debt ERC721
 [Timeswap V1 Convenience Product Specification](https://drive.google.com/file/d/16fzt841PqYdYPrHU17j5kKtI_vhqQ5BE/view?usp=sharing)
 
 [Code Walkthrough](https://youtu.be/sHBK5ErtksI)
-
-## Marketing Details
-
-### Logo
-
-![image](./assets/Timeswap%20Logo.png)
-
-### Twitter Handle
-
-[twitter.com/TimeswapLabs
-](https://twitter.com/TimeswapLabs
-)
-
-### Discord URI
-
-[discord.gg/timeswap
-](https://discord.gg/timeswap
-)
-
-### Website
-
-[Timeswap](https://timeswap.io)
-
-### Do you have any quirks, recurring themes, iconic tweets, community "secret handshake" stuff we could work in? How do your people recognize each other, for example?
-
-Our community members are called Time Travelers as users on Timeswap are essentially swapping tokens through Time. Time travelers like to shout at the top of their voice - $TIME is money. 
-
-Our emoji of choice is the hourglass ⏳
-
-### Your logo in Discord emoji format
-
-![image](./assets/Timeswap%20Logo%20Discord.png)
