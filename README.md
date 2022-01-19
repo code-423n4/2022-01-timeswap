@@ -1,5 +1,5 @@
 # Timeswap contest details
-- $71,250 USDC main award pot
+- $63,750 USDC main award pot
 - $3,750 USDC gas optimization award pot
 - Join [C4 Discord](https://discord.gg/code4rena) to register
 - Submit findings [using the C4 form](https://code4rena.com/contests/2022-01-timeswap-contest/submit)
